@@ -1,0 +1,2 @@
+numpy-financial
+streamlit
